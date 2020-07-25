@@ -6,6 +6,8 @@ public class HelloWolrdGit {
 		System.out.println("first ");
 		System.out.println(" dev");
 		System.out.println("dev11111111111111111");
+		System.out.println("第二次提交之前");
+
 	}
 
 }
